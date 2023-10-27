@@ -26,4 +26,4 @@ Algorithm: CSGD
 Time: 0.552503 seconds  
 
 
-![](results/diabetes_ridge_0.5_1.eps)``````
+![](diabetes_ridge_0.5_1.eps)``````
