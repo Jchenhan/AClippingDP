@@ -1,5 +1,5 @@
-# Demo for Clipped-dpSGD
-
+# Demo for Clipped-dpSGD  
+#Note: The code is the latest version. This page will be updated soon, 
 A demo for clipped-dpSGD proposed in *Efficient Private SCO for Heavy-Tailed Data via Clipping*.
 
 ## Usage
